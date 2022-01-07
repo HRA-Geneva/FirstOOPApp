@@ -1,0 +1,16 @@
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.exe
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.deps.json
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.runtimeconfig.json
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.runtimeconfig.dev.json
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.dll
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\ref\FirstOOPApp.dll
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\bin\Debug\net5.0\FirstOOPApp.pdb
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.csproj.AssemblyReference.cache
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.AssemblyInfoInputs.cache
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.AssemblyInfo.cs
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.csproj.CoreCompileInputs.cache
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.dll
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\ref\FirstOOPApp.dll
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.pdb
+C:\Users\terla\source\repos\FirstOOPApp\FirstOOPApp\obj\Debug\net5.0\FirstOOPApp.genruntimeconfig.cache
